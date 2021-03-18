@@ -1,0 +1,19 @@
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\bin\Debug\MetroFramework.Design.dll
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\bin\Debug\MetroFramework.dll
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\obj\Debug\McVoterBase.csprojAssemblyReference.cache
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\obj\Debug\McVoterBase.Form1.resources
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\obj\Debug\McVoterBase.Properties.Resources.resources
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\obj\Debug\McVoterBase.csproj.GenerateResource.cache
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\obj\Debug\McVoterBase.csproj.CoreCompileInputs.cache
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\obj\Debug\McVoterBase.csproj.CopyComplete
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\obj\Debug\McVoterBase.Form2.resources
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\bin\Debug\Leaf.xNet.dll
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\bin\Debug\Leaf.xNet.xml
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\bin\Debug\Minecraft Voter (By Matt).exe.config
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\bin\Debug\Minecraft Voter (By Matt).exe
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\bin\Debug\Minecraft Voter (By Matt).pdb
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\obj\Debug\Minecraft Voter (By Matt).exe
+C:\Users\matt\source\repos\McVoterBase\McVoterBase\obj\Debug\Minecraft Voter (By Matt).pdb
